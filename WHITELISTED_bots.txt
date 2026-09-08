@@ -20,7 +20,6 @@ rainmaker
 sery_bot
 socialblade
 soundalerts
-streamcaptainbot
 streamdeckerbot
 streamelements
 streamerbot
