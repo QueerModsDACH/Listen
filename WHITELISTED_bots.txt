@@ -29,4 +29,5 @@ streamlabs
 streamstickers
 tipeeebot
 vivbot
+wortgewandtchatbot
 wizebot
