@@ -5,6 +5,7 @@ commanderroot
 creatisbot
 dinu
 fossabot
+frostytools
 kofistreambot
 lattemotte
 logviewer
